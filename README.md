@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1>Pizza API</h1>
-<p align="center">The Pizza API is a .NET Web API based on REST that provides CRUD operations for pizza items. The API includes fluent validations, Swagger examples, global exception handling, and more.</p>
+<p>The Pizza API is a .NET Web API based on REST that provides CRUD operations for pizza items. The API includes fluent validations, Swagger examples, global exception handling, and more.</p>
 
 <!-- Technologies -->
 <h2>Technologies Used</h2>
