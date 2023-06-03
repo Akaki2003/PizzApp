@@ -8,7 +8,7 @@
   <li>.NET Framework</li>
   <li>C#</li>
   <li>ASP.NET Web API</li>
-  <li>Entity Framework</li>
+  <li>ADO.NET</li>
   <li>Fluent Validation</li>
   <li>Swagger</li>
   <li>Global Exception Handling</li>
